@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/bin/Debug/net7.0/OperatorOverloadingEx1
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/bin/Debug/net7.0/OperatorOverloadingEx1.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/bin/Debug/net7.0/OperatorOverloadingEx1.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/bin/Debug/net7.0/OperatorOverloadingEx1.dll
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/bin/Debug/net7.0/OperatorOverloadingEx1.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/OperatorOverloadingEx1.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/OperatorOverloadingEx1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/OperatorOverloadingEx1.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/OperatorOverloadingEx1.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/OperatorOverloadingEx1.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/OperatorOverloadingEx1.dll
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/refint/OperatorOverloadingEx1.dll
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/OperatorOverloadingEx1.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/OperatorOverloadingEx1.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/OperatorOverloadingEx1/obj/Debug/net7.0/ref/OperatorOverloadingEx1.dll
